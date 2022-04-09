@@ -1,0 +1,3 @@
+from create_local_files import local_functionalities
+
+local_functionalities()
